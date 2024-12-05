@@ -15,17 +15,17 @@ Ce dossier contient les images de sortie du programme. Voici quelques-unes d'ent
 ### 6 : Affichage de la sixieme image  
 <img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/6.jpg" width="800"><br>
 ### 7 : Affichage de la septieme image  
-<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/7.gif" width="800"><br>
+<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/7.jpg" width="800"><br>
 ### 8 : Affichage de la huitieme image  
-<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/8.gif" width="800"><br>
+<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/8.jpg" width="800"><br>
 ### 9 : Affichage de la neuvieme image  
-<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/9.gif" width="800"><br>
+<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/9.jpg" width="800"><br>
 ### 10 : Affichage de la dixieme image  
-<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/10.gif" width="800"><br>
+<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/10.jpg" width="800"><br>
 ### 11 : Affichage de la onzieme image  
-<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/11.gif" width="800"><br>
+<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/11.jpg" width="800"><br>
 ### 12 : Affichage de la douzieme image  
-<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/12.gif" width="800"><br>
+<img src="https://github.com/M-U-C-K-A/image-ft-lock-static/blob/main/12.jpg" width="800"><br>
 
 
 <style>
